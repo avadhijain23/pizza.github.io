@@ -1,0 +1,57 @@
+.jumbotron{
+	background-color: #d7aafa;
+}
+.footer{
+	background-color: #d7aafa;
+}
+nav{
+	padding: 0px;
+	margin: 0px;
+	background-color: #8003fc;
+}
+.modal-header{
+	background-color:#8003fc ;
+}
+.modal-title{
+	color: floralwhite;
+}
+.modal-body{
+	background-color: floralwhite;
+}
+.form-check{
+	margin-left: 8px;
+}
+form h2{
+	background-color: #fcb103;
+	text-align: center;
+	padding: 4px;
+}
+.form-row{
+	padding: 20px;
+}
+.card{
+	padding: 5px;
+	
+}
+.card button{
+	margin: 0px 40%;
+}
+.footer i{
+	height: 20px;
+	padding: 10px;
+}
+.carousel {
+    background:#512DA8;
+}
+
+.carousel-item {
+  color: black;
+  height: 250px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
